@@ -72,7 +72,7 @@ HAVING COUNT(b.booking_id) > 2;
 
 ## Links
 
-- **ERD Link**: [PASTE_YOUR_DBDIAGRAM_LINK_HERE]
+- **ERD Link**: https://drawsql.app/teams/inam-4/diagrams/vehicle-rental-system
 
 ---
 
@@ -81,3 +81,4 @@ HAVING COUNT(b.booking_id) > 2;
 1.  The table schemas and sample data insertion scripts are located in `queries.sql`.
 2.  The ERD link provides a visual representation of the relationships (1:M between Users and Bookings and M:1 between Bookings and Vehicles).
 3.  All queries were tested using PostgreSQL and match the expected output defined in the assignment requirements.
+
